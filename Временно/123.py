@@ -1,0 +1,6 @@
+a = input('Введите число ')
+b = int(input('Введите основание системы счисления '))
+f = int(a, b)
+fef = open("znach.txt","w")
+fef.write(str(f))
+fef.close()

@@ -1,0 +1,7 @@
+print('    А')
+print('    Ж')
+print('  ',3*'Ж')
+print(' ',5*'Ж')
+print('',7*'Ж')
+print('  HH HH  ')
+print(' ',5*'Z')

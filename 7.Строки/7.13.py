@@ -1,0 +1,5 @@
+print('Введи свою строчку:')
+Q = input()
+print('Удалить:')
+A = input()
+print(Q.replace(A,''))

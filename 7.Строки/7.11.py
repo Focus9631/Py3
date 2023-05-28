@@ -1,0 +1,7 @@
+print('Введи свое слово:')
+Q = input()
+print('Введи букву:')
+A = input()
+H1 = Q.find(A) 
+H2 = Q.rfind(A)
+print(Q[:H1]+Q[H2:H1:-1]+Q[H2:])

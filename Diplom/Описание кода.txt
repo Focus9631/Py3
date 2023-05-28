@@ -1,0 +1,5 @@
+Преобразование в mfcc : https://habr.com/ru/post/351462/ | http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/   Поиск по странице(mfcc)
+Хорошее описание всей работы : https://neurohive.io/ru/tutorial/glubokoe-obuchenie-s-pytorch/
+Бибилиотека Librosa : https://pythonru.com/biblioteki/librosa
+PyTorch RNN : https://python-scripts.com/pytorch-rnn#building-the-rnn | https://pytorch.org/docs/stable/generated/torch.nn.RNN.html
+https://ru.other.wiki/wiki/Recurrent_neural_network
